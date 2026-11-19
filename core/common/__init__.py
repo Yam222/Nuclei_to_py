@@ -10,7 +10,7 @@
 """
 from scanner.core.common.expressions import render_text, render_text_verbose
 from scanner.core.common.variables import build_context
-from scanner.core.common.dsl import evaluate_dsl, evaluate_dsl_verbose
+
 
 __all__ = [
     "build_context",
